@@ -1,0 +1,20 @@
+{
+    "name": "full-watch/the-bachelorette-season-15-episode-1-online-on-abc",
+    "description": "Watch The Bachelorette Season 15 Episode 1 Online Full Free on ABC ((AVAILABLE HERE))",
+	"keywords": ["The Bachelorette Season 15 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Watch The Bachelorette S15E01 Online",
+            "homepage": "https://t.co/RQgbdJZWTm",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
